@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Splash3</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome to the</string>
+    <string name="menu_item_knowledge">Knowledge</string>
+    <string name="menu_item_business">Business</string>
+    <string name="menu_item_events">Events</string>
+    <string name="menu_item_food">Food and Drink</string>
+    <string name="menu_item_language">Language Options</string>
+    <string name="menu_item_support">Support Us</string>
+    <string name="menu_item_notices">Notices</string>
+
+
+</resources>
